@@ -1,4 +1,4 @@
-var wanwan = wanwan(){
+wanwan(){
 let emucha = document.getElementById('memo').value;
 console.log(emucha)
 if (emucha == ''){
