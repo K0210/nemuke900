@@ -16,8 +16,6 @@
     h1 {
       line-height: 2;
     }
-    .otori{
-　　    input:checked + label {
-          color: yellow;
-　　    };
+    input:checked + label {
+        color: yellow;
     }
