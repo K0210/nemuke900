@@ -8,4 +8,4 @@ emu = 'ほへっ？';
 emu = null;
 };
 document.getElementById('emu').innerHTML = emu ;
-};
+}
