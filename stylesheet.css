@@ -16,8 +16,6 @@
     h1 {
       line-height: 2;
     }
-　　.otori{
-    .emu { display:block; }
-    textarea.memo[:blank]{
-        .emu{ display:none; }
-    }
+　　input:checked + label {
+  　color: yellow;
+　　}
