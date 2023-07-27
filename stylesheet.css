@@ -17,5 +17,5 @@
       line-height: 2;
     }
 　　input:checked + label {
-  　color: yellow;
+      color: yellow;
 　　}
