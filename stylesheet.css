@@ -16,8 +16,8 @@
     h1 {
       line-height: 2;
     }
+　　div{
     .emu { display:block; }
-    @textarea: blank{
+    textarea: blank{
         .emu{ display:none; }
-        
-</style>
+    }
