@@ -1,6 +1,7 @@
 wanwan(){
 let emucha = document.getElementById('memo').value;
-console.log(emucha)
+console.log(emucha);
+let emu;
 if (emucha == ''){
 emu = 'ほへっ？';
 }else{
